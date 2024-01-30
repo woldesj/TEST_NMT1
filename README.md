@@ -2,7 +2,7 @@
 <h2 align="center"><b>Тест НМТ</b></h2>
 <h4 align="center">Мінімалістичний, функціональний Android додаток для підготовки до НМТ</h4>
 
-## Screenshots
+## Скриншоти
 
 [<img src="https://github.com/woldesj/TEST_NMT1/assets/94752984/5687b5e0-d3a4-4440-b132-89eeb966fa3a" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/00.png)
 [<img src="https://github.com/woldesj/TEST_NMT1/assets/94752984/348558a5-21d7-4da3-9ac3-5e73fd9c43c7" width=160>](fastlane/metadata/android/en-US/images/phoneScreenshots/01.png)
